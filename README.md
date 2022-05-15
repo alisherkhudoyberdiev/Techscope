@@ -1,2 +1,2 @@
-# techscope.uz
+# Techscope
 Zamonaviy texnologiyalar nashri!
